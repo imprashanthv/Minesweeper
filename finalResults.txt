@@ -1,0 +1,3 @@
+GameNumber       Steps Taken          Won/Lost
+1                 2                    Lost
+2                 9                    Lost
